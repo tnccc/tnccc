@@ -7,21 +7,12 @@
 <!--   <a href="https://github.com/tnccc/tnccc">
     <img src="https://komarev.com/ghpvc/?username=tnccc" alt="tnccc" />
   </a> -->
-  
-<!--   <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
-  </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
-  </a> -->
-</p>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tnccc&theme=discord_old_blurple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tnccc&theme=discord_old_blurple)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tnccc)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnccc)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tnccc&theme=discord_old_blurple&utcOffset=8)
 <!--
 **tnccc/tnccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

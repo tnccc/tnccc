@@ -1,4 +1,4 @@
-### Hi there, I'm [IREI](https://twitter.com/irei_dev) 👋
+### Hi there, I'm IREI 👋
 
 <p align="left">
   <a href="http://twitter.com/irei_dev">
